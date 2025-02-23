@@ -1,0 +1,22 @@
+{
+  "name": "digikala",
+  "version": "1.0.0",
+  "description": "digikala-sample-site",
+  "keywords": [
+    "digikala-rahmati"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "digikala-a-r"
+  },
+  "license": "ISC",
+  "author": "ali-rahmati",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "swiper": "^11.2.4"
+  }
+}

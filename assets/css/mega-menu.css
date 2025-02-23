@@ -1,0 +1,13 @@
+header div.bottom-header nav div.right-side-nav ul li.category div.menu{
+    display: none;
+    position: absolute;
+    right: 0;
+    top: 32px;
+    width: 1137px;
+    height: 252px;
+    background-color: aqua;
+}
+header div.bottom-header nav div.right-side-nav ul li.category:hover div.menu{
+    display: block;
+
+}

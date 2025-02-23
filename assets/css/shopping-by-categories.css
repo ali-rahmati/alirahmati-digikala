@@ -1,0 +1,33 @@
+main section.shopping-by-categories{
+    width: 1336px;
+    height: 457px;
+    margin: 0 96px;
+    padding: 16px 0;
+}
+main section.shopping-by-categories h3{
+    margin: 0 auto 36PX;
+    width: 230px;
+    height: 45px;
+    vertical-align: middle;
+    font-weight: 500;
+    font-size: 21px;
+}
+main section.shopping-by-categories div.e-categories{
+    width: 1178px;
+    height: 320px;
+    margin: 0 auto;
+}
+main section.shopping-by-categories div.e-categories div{
+    display: inline-block;
+    width: 140px;
+    height: 160px;
+    margin: 0 1px 0;
+}
+main section.shopping-by-categories div.e-categories div img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+main section.shopping-by-categories div.e-categories div p{
+    margin-top: 8px;
+}

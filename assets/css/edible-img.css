@@ -1,0 +1,21 @@
+main section.edible-img{
+    width: 1337px;
+    height: 242px;
+    margin: 20px 95px;
+}
+main section.edible-img div{
+    width: 320px;
+    height: inherit;
+    display: inline-block;
+    margin-right: 15px;
+
+}
+main section.edible-img div.e-first{
+    margin-right: 0 ;
+}
+main section.edible-img div img{
+    width: inherit;
+    height: inherit;
+    object-fit: cover;
+    border-radius: 16px;
+}

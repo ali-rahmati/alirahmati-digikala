@@ -1,0 +1,37 @@
+@font-face {
+    font-family: iranyekan-regular;
+    src: url(../font/iranyekanwebregular.woff2);
+}
+@font-face{
+        
+    font-family: iranyekan-bold;
+    src: url(/assets/font/iranyekanwebbold.woff2);
+}
+@font-face {
+    font-family: iranyekan-extrabold;
+    src: url(/assets/font/iranyekanwebextrabold.woff);
+}
+@font-face{
+    font-family: iranyekan-medium;
+    src: url(../font/iranyekanwebmedium.woff);
+}
+@font-face {
+    
+    font-family: cube;
+    src: url(../font/cube-v8.1.woff);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: iranyekan-regular;
+    font-size: 12px;
+
+}
+.center{
+    text-align: center;
+}
+.middle{
+    text-align: center;
+    vertical-align: middle;
+}

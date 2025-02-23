@@ -1,0 +1,63 @@
+main section.digital-categories{
+    width: 1336px;
+    height: 418px;
+    margin: 20px 96px;
+    border: 1px solid rgb(224,224,226 );
+    border-radius: 16px;
+}
+main section.digital-categories div.d-c-column{
+    width: 330px;
+    height: 416px;
+    display: inline-block;
+    padding: 8px 20px;
+    border-left: 1px solid rgb(224,224,226);
+}
+main section.digital-categories div.d-c-column-end{
+    border-left: none;
+}
+main section.digital-categories div.d-c-column h4{
+    width: 122px;
+    height: 37px;
+    font-size: 16px;
+    text-align: right;
+    line-height: 35px;
+}
+main section.digital-categories div.d-c-column p{
+    font-size: 11px;
+    color: rgb(129, 133, 139);
+    text-align: right;
+    height: 23px;
+    margin-bottom: 10px;
+}
+main section.digital-categories div.d-c-column div{
+    width: 142px;
+    height: 145px;
+    display: inline-block;
+    padding: 8px;
+}
+main section.digital-categories div.d-c-column div img{
+    width: 130px;
+    height: 130px;
+}
+main section.digital-categories div.d-c-column div.d-c-c-see{
+    height: 26px;
+    margin-top: 10px;
+    padding: 0;
+}
+main section.digital-categories div.d-c-column div.d-c-c-see svg{
+    vertical-align: top;
+}
+main section.digital-categories div.d-c-column div.d-c-c-see span{
+    color: rgb(25, 191, 211);
+
+}
+main section.digital-categories div.d-c-column div.first{
+    border-left: 1px solid rgb(224,224,226);
+    border-bottom: 1px solid rgb(224,224,226);
+}
+main section.digital-categories div.d-c-column div.second{
+    border-bottom: 1px solid rgb(224,224,226);
+}
+main section.digital-categories div.d-c-column div.third{
+    border-left: 1px solid rgb(224,224,226);
+}

@@ -1,0 +1,73 @@
+main section.selected-discount-product{
+    width: 1336px;
+    height: 813px;
+    margin: 0 96px;
+    padding: 0 12px;
+    border: 1px solid rgb(224,224,226);
+    border-radius: 16px;
+}
+main section.selected-discount-product div.sdp-first{
+    width: 1310px;
+    height: 76px;
+    padding: 25px 0 16px;
+}
+main section.selected-discount-product div.sdp-first svg{
+    vertical-align: middle;
+}
+main section.selected-discount-product div.sdp-first h3{
+    display: inline-block;
+    font-size: 21px;
+    vertical-align: middle;
+}
+main section.selected-discount-product div.sdp-second{
+    width: 1310px;
+    height: 735px;
+    margin-top: 10px;
+}
+main section.selected-discount-product div.sdp-second div.sdp-second-total{
+    width: 215px;
+    height: 242px;
+    padding: 12px 8px;
+    border-left: 1px solid rgb(224,224,226);
+    border-bottom: 1px solid rgb(224,224,226);
+    display: inline-block;
+}
+main section.selected-discount-product div.sdp-second div.sdp-no{
+    border-left: none;
+}
+main section.selected-discount-product div.sdp-second div.sdp-second-total img{
+    width: 150px;
+    height: 150px;
+}
+main section.selected-discount-product div.sdp-second div.sdp-second-total div.price-total div.percentage{
+    width: 34px;
+    height: 20px;
+    border-radius: 16px;
+    display: inline-block;
+    background-color: #ef394e;
+    margin-right: 0;
+    vertical-align: middle;
+    font-size: 12px;
+    padding: 0 4px;
+    color: white;
+    font-weight: bold;
+}
+main section.selected-discount-product div.sdp-second div.sdp-second-total div.price-total div.price{
+    width: 68px;
+    height: 24px;
+    display: inline-block;
+    margin-right: 25px;
+    font-size: 16px;
+}
+main section.selected-discount-product div.sdp-second div.sdp-second-total div.price-total div.discount-price{
+    width: 51px;
+    height: 21px;
+    margin-right: 100px;
+}
+main section.selected-discount-product div.sdp-second div.sdp-second-total div.price-total img{
+    width: 16px;
+    height: 16px;
+    margin: 0;
+    display: inline-block;
+    vertical-align: top;
+}

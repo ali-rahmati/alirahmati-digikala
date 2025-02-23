@@ -1,0 +1,20 @@
+main section.offers{
+    width: 1336px;
+    height: 242px;
+    margin: 20px 96px;
+}
+main section.offers div{
+    width: 321.5px;
+    height: 242px;
+    margin-right: 12px;
+    display: inline-block;
+}
+main section.offers div.offers-first{
+    margin-right: 0;
+}
+main section.offers div img{
+    width: inherit;
+
+    object-fit: cover;
+    border-radius: 16px;
+}

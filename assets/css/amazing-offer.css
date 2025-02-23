@@ -1,0 +1,115 @@
+main>section.amazing-offer{
+    width: 1336px;
+    height: 295px;
+    background-color: #ef394e;
+    margin: 0 96px;
+    padding: 20px 0;
+    border-radius: 16px;
+}
+.first-offer{
+    background-color: #ef394e;
+
+}
+main>section.amazing-offer div.swiper div.swiper-wrapper div.swiper-slide{
+    width: 162px !important; 
+    height: 255px;
+    margin-left: 3px; 
+}
+main>section.amazing-offer div.swiper div.swiper-wrapper div.swiper-slide svg{
+    display: block;
+    margin: 0 auto;
+}
+main>section.amazing-offer div.swiper div.swiper-wrapper div.swiper-slide div.clock-parent{
+    height: 34px;
+
+}
+main>section.amazing-offer div.swiper div.swiper-wrapper div.swiper-slide div.clock-parent div.clock{
+    width: 26px;
+    height: 26px;
+    display: inline-block;
+    background-color: white;
+    border-radius: 4px;
+
+}
+main>section.amazing-offer div.swiper div.swiper-wrapper div.swiper-slide div.clock-parent div.clock p{
+    line-height: 26px;
+    display: inline-block;
+    font-family: iranyekan-regular;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+main>section.amazing-offer div.swiper div.swiper-wrapper div.swiper-slide div.clock-parent  div.dot{
+    display: inline-block;
+    width: 5px;
+    height: 20px;
+    color: white;
+    font-size: 25px;   
+}
+main>section.amazing-offer div.swiper div.swiper-wrapper div.swiper-slide div.view-all{
+    width: 95px;
+    height: 18px;
+    margin: 25px auto 10px;
+}
+main>section.amazing-offer div.swiper div.swiper-wrapper div.swiper-slide div.view-all div.view-all-first{
+    color: white;
+    height: 18px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+main>section.amazing-offer div.swiper div.swiper-wrapper div.swiper-slide div.view-all div.view-all-second{
+    display: inline-block;
+    color: white;
+    margin-right: 0;
+
+}
+main>section.amazing-offer div.swiper div.swiper-wrapper div.swiper-slide img{
+    width: 132px;
+    height: 132px;
+    margin: 8px 15px;
+
+}
+main>section.amazing-offer div.swiper div.swiper-wrapper div.swiper-slide div.p-name{
+    width: 144px;
+    height: 40px;
+    margin: 8px;
+    overflow: hidden;
+}
+main>section.amazing-offer div.swiper div.swiper-wrapper div.swiper-slide div.price-total{
+    width: 144px;
+    height: 45px;
+    margin: 0 8px 8px;
+}
+main>section.amazing-offer div.swiper div.swiper-wrapper div.swiper-slide div.price-total div.percentage{
+    width: 34px;
+    height: 20px;
+    border-radius: 16px;
+    display: inline-block;
+    background-color: #ef394e;
+    margin-right: 0;
+    vertical-align: middle;
+    font-size: 12px;
+    padding: 0 4px;
+    color: white;
+    font-weight: bold;
+}
+main>section.amazing-offer div.swiper div.swiper-wrapper div.swiper-slide div.price-total div.price{
+    width: 59px;
+    height: 24px;
+    display: inline-block;
+    margin-right: 25px;
+    font-size: 14px;
+}
+main>section.amazing-offer div.swiper div.swiper-wrapper div.swiper-slide div.price-total img{
+    width: 16px;
+    height: 16px;
+    margin: 0;
+    display: inline-block;
+    vertical-align: middle;
+}
+main>section.amazing-offer div.swiper div.swiper-wrapper div.swiper-slide div.price-total div.discount-price{
+    width: 51px;
+    height: 21px;
+    margin-right: 70px;
+}

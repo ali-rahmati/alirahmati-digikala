@@ -1,0 +1,123 @@
+main section.amazing-soupermarket{
+    width: 1336px;
+    height: 110px;
+    margin: 0 96px;
+    background-image: url(../image/amazing-soupermarket/bgimage.svg);
+    background-repeat: no-repeat;
+    padding: 16px 40px 12px;
+    background-color: rgb(240, 240, 241);
+}
+main section.amazing-soupermarket div.a-right-side{
+    width: 466px;
+    vertical-align: middle;
+    height: 62px;
+    margin: 10px 0;
+    display: inline-block;
+    float: right;
+}
+main section.amazing-soupermarket div.a-right-side div.a-r-first{
+    width: 66px;
+    height: 62px;
+    display: inline-block;
+}
+main section.amazing-soupermarket div.a-right-side div.a-r-first img{
+    width: inherit;
+    height: inherit;
+    object-fit: cover;
+    vertical-align: middle;
+}
+main section.amazing-soupermarket div.a-right-side div.a-r-second{
+    width: 250px;
+    height: 28px;
+    margin: 0 15px;
+    display: inline-block;
+    vertical-align: middle;
+}
+main section.amazing-soupermarket div.a-right-side div.a-r-thired{
+    width: 110px;
+    height: 28px;
+    background-color: rgb(2, 154, 73);
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 9999px;
+    padding: 0 13px;
+
+}
+main section.amazing-soupermarket div.a-right-side div.a-r-thired p{
+    width: 84px;
+    height: 30px;
+    line-height: 28px;
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+}
+main section.amazing-soupermarket div.a-left-side{
+    width: 554px;
+    height: 74px;
+    display: inline-block;
+    vertical-align: middle;
+    float: left;
+    margin-top: 5px;
+}
+main section.amazing-soupermarket div.a-left-side div.a-l-first{
+    width: 410px;
+    height: 74px;
+    display: inline-block;
+    float: right;
+}
+main section.amazing-soupermarket div.a-left-side div.a-l-first div.after{
+    width: 74px;
+    height: 74px;
+    display: inline-block;
+    position: relative;
+}
+main section.amazing-soupermarket div.a-left-side div.a-l-first div.after div.im{
+    width: 74px;
+    height: 74px;
+    display: inline-block;
+    background-color: white;
+    border-radius: 50%;
+    padding: 8px;
+    overflow: hidden;
+
+}
+main section.amazing-soupermarket div.a-left-side div.a-l-first div.after div.percent{
+    width: 34px;
+    height: 20px;
+    position: absolute;
+    border-radius: 16px;
+    background-color: #ef394e;
+    text-align: center;
+    line-height: 20px;
+    color: white;
+    position: absolute;
+    right: 2px;
+    bottom: 0;
+}
+main section.amazing-soupermarket div.a-left-side div.a-l-first div.after div.im img{
+    width: 58px;
+    height: 58px;
+    object-fit: cover; 
+    position: relative;
+}
+
+main section.amazing-soupermarket div.a-left-side div.a-l-second{
+    width: 144px;
+    height: 50px;
+    display: inline-block;
+    margin: 12px 0;
+    padding: 12px 20px;
+    border-radius: 50px;
+    background-color: white;
+}
+main section.amazing-soupermarket div.a-left-side div.a-l-second div{
+    width: 77px;
+    height: 26px;
+    display: inline-block;
+    color: rgb(2, 154, 73);
+    vertical-align: middle;
+    line-height: 20px;
+}
+main section.amazing-soupermarket div.a-left-side div.a-l-second svg{
+    vertical-align: top;
+}

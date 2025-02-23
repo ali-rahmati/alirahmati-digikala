@@ -1,0 +1,31 @@
+/* Start storybar */
+  section.storybar>div.swiper>div.swiper-wrapper>div.swiper-slide {
+    width: 84px !important;
+    margin: 0 5px 0 19px !important;
+  }
+
+section.storybar>div.swiper>div.swiper-wrapper>div.swiper-slide>img {
+    width: 74px;
+    height: 74px;
+    border-radius: 50%;
+    outline: 3px solid #7d4c9e;
+    outline-offset: 3px;
+    margin: 5px 0;
+
+}
+section.storybar{
+  font-size: 11px;
+  width: 1336px;
+  margin: 0 96px;
+  padding: 16px 0 0;
+  color: rgb(98, 102, 109);
+
+}
+section.storybar>div.swiper>div.swiper-wrapper>div.swiper-slide>span{
+  width: 84px;
+  height: 47px;
+  display: block;
+  text-align: center;
+  margin: 8px 0;
+}
+/* End storybar */

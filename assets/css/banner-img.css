@@ -1,0 +1,13 @@
+main section.banner-img{
+    width: 1336px;
+    height: 264px;
+    margin: 0 96px;
+}
+main section.banner-img img{
+    width: 658px;
+    height: 264px;
+    border-radius: 16px;
+}
+main section.banner-img img.b-img2{
+    margin-right: 16px;
+}

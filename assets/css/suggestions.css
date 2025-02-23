@@ -1,0 +1,31 @@
+main section.suggestions{
+    width: 1336px;
+    height: 144px;
+    margin: 20px 96px;
+}
+main section.suggestions div{
+    display: inline-block;
+    width: 82px;
+    height: 127px;
+    margin: 8px 31px;
+    padding: 0 15px;
+    border: none;
+    vertical-align: middle;
+}
+main section.suggestions div img{
+    width: 52px;
+    height: 52px;
+    display: block;
+}
+main section.suggestions div p{
+    width: 52px;
+    text-align: center;
+    font-size: 11px;
+    margin-top: 10px;
+}
+main section.suggestions div div.more{
+    width: 52px;
+    height: 52px;
+    margin: 0 auto;
+    padding: 10px;
+}

@@ -1,0 +1,79 @@
+main section.most-selling-goods{
+    width: 1336px;
+    height: 404px;
+    border: 1px solid rgb(224,224,226);
+    margin: 0 96px;
+    padding: 16px 0;
+    border-radius: 16px;
+}
+main section.most-selling-goods div.msg-first{
+    width: inherit;
+    height: 44px;
+
+    padding: 5px 20px;
+    display: inline-block;
+}
+main section.most-selling-goods div.msg-first div p{
+    display: inline-block;
+    font-size: 21px;
+}
+main section.most-selling-goods div.msg-first div{
+    display: inline-block;
+}
+main section.most-selling-goods div.msg-first div svg{
+    vertical-align: middle;
+}
+main section.most-selling-goods div.msg-first>p{
+    display: inline-block;
+    font-size: 14px;
+    vertical-align: top;
+    float: left;
+    color: rgb(25, 191, 211);
+}
+main section.most-selling-goods div.msg-second{
+    width: inherit;
+    height: 298px;
+    padding: 0 8px;
+    margin-top: 20px;
+}
+main section.most-selling-goods div.msg-second div.swiper div.swiper-wrapper div.swiper-slide{
+    width: 315px !important;
+    height: 298px;
+    margin-left: 20px;
+}
+main section.most-selling-goods div.msg-second div.swiper div.swiper-wrapper div.swiper-slide div{
+    width: 315px;
+    height: 86px;
+    margin-top: 13px;
+}
+main section.most-selling-goods div.msg-second div.swiper div.swiper-wrapper div.swiper-slide div img{
+    width: 86px;
+    height: inherit;
+    display: inline-block;
+    margin-right: 0;
+    vertical-align: top;
+}
+main section.most-selling-goods div.msg-second div.swiper div.swiper-wrapper div.swiper-slide div span{
+    width: 14px;
+    height: inherit;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 86px;
+    font-size: 26px;
+    color: rgb(25, 191, 211);
+    font-weight: 800;
+}
+main section.most-selling-goods div.msg-second div.swiper div.swiper-wrapper div.swiper-slide div div.f-stuff-name{
+    width: 190px;
+    display: inline-block;
+    margin-top: 0;
+    padding: 35px 0;
+    border-bottom: 1px solid rgb(224,224,226);
+}
+main section.most-selling-goods div.msg-second div.swiper div.swiper-wrapper div.swiper-slide div div.f-stuff-name p{
+    color: rgb(63, 64, 100);
+    font-size: 12px;
+}
+main section.most-selling-goods div.msg-second div.swiper div.swiper-wrapper div.swiper-slide div div.f-stuff-name1{
+    border: none;
+}
